@@ -10,6 +10,5 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-//GM_addStyle('.main-center-box > :first-child { width: calc(100% - 169px) !important }');
 //GM_addStyle('.main-center-box > :first-child { max-width: calc(100% - 169px); !important }');
 GM_addStyle('.main-center-box > :first-child { max-width: 100%; !important }');
