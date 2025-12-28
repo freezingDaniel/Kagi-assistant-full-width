@@ -11,3 +11,4 @@
 // ==/UserScript==
 
 GM_addStyle('.main-center-box > #chat_box { max-width: 100% !important }');
+GM_addStyle('.main-center-box > #prompt-box { max-width: 100% !important }');
