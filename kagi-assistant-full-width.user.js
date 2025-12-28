@@ -3,7 +3,7 @@
 // @description  Implements changes requested by https://kagifeedback.org/d/4304-assistants-code-output-is-often-hard-to-follow-due-to-the-limited-width-of-the-assistants-output
 // @author       freezingDaniel
 // @namespace    http://tampermonkey.net/
-// @version      2025-12-28
+// @version      2025-12-28-3
 // @supportURL   https://github.com/freezingDaniel/Kagi-assistant-full-width/issues
 // @match        https://kagi.com/assistant*
 // @icon         https://kagi.com/favicon-assistant-32x32.png
